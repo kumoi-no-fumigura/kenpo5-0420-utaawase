@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kenpo5-0420-utaawase",
  "yomi": "けんぽうごねんしがつはつかうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "建保5年（1217）4月20日",
+  "author": "主催 順徳天皇",
+  "desc": "順徳天皇のもとで催された歌合。羇旅郭公・河辺夏草・寄松述懐などの題で、院・実氏・経通・定家・行意・範宗・家隆らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
